@@ -110,22 +110,34 @@ http://localhost:8000
  
 
 
-<h2> 🩺 Real Use Cases
+<h2> 🩺 Real Use Cases </h2>
+
 Paralysis rehabilitation
+
 Elderly care centers
+
 Hospital ICUs
+
 Home patient monitoring
+
 Disabled assistance
-🔮 Future Scope
+
+<h2> 🔮 Future Scope </h2>
+
 Heartbeat/Pulse sensor
+
 SpO2 monitoring
+
 Voice alerts
+
 Multi-patient dashboard
+
 Mobile App (PWA)
+
 GPS tracking
-</h2>
+
 
 <h1> ⭐ Author :-Puspendu Mallick </h1>
 
-   Paralyzed Patient Monitoring System (ESP32 + Firebase)
+Paralyzed Patient Monitoring System (ESP32 + Firebase)
 
