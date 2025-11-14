@@ -77,8 +77,7 @@ Sensors → ESP32 → Firebase → Web Dashboard → Caregiver
 
 <h1> 🖥 Web Dashboard </h1>
 ![Dashboard]
-(<img width="1710" height="1073" alt="dashboard" src="https://github.com/user-attachments/assets/a0c6f46a-fd68-4890-8582-29bb543d919d" />)
-
+<img width="1710" height="1073" alt="dashboard" src="https://github.com/user-attachments/assets/a0c6f46a-fd68-4890-8582-29bb543d919d" />
 
 
 ![Alert Example]
