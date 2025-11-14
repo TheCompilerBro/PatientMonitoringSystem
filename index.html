@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Patient Monitoring Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="header">
+    <h1>💚 Patient Monitoring Dashboard 💚</h1>
+    <p>Real-Time Health Status</p>
+</div>
+
+<div id="alertBanner" class="alert-banner hidden">ALERT HERE</div>
+
+<div class="grid">
+
+    <div class="card" id="flexCard">
+        <h3>Flex</h3>
+        <div id="flexValue" class="value">NO</div>
+    </div>
+
+    <div class="card" id="fallCard">
+        <h3>Fall</h3>
+        <div id="fallValue" class="value">NO</div>
+    </div>
+
+    <div class="card" id="tempCard">
+        <h3>Temperature</h3>
+        <div id="tempValue" class="value">NORMAL</div>
+    </div>
+
+    <div class="card">
+        <h3>Last Update</h3>
+        <div id="timeValue" class="value">--:--:--</div>
+    </div>
+    
+
+</div>
+<button id="enableSoundBtn">🔊 Enable Sound</button>
+
+
+<h2>Alert History</h2>
+<ul id="historyList" class="history"></ul>
+
+<script type="module" src="app.js"></script>
+
+</body>
+</html>
