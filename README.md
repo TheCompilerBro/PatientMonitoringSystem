@@ -75,14 +75,20 @@ alerts: {
   "message": "text OR none"
 }
 
-🏗 System Architecture
-Sensors → ESP32 → Firebase → Web Dashboard → Caregiver
-🖥 Web Dashboard
-![Dashboard](<img width="1710" height="1073" alt="dashboard" src="https://github.com/user-attachments/assets/a0c6f46a-fd68-4890-8582-29bb543d919d" />)
-![Alert Example](<img width="1710" height="1107" alt="alert" src="https://github.com/user-attachments/assets/05e078a8-761d-4342-9640-38e8408338ff" />
+<h1>  🏗 System Architecture </h1>
+Sensors → ESP32 → Firebase → Web Dashboard → Caregiver 
+
+<h1> 🖥 Web Dashboard </h1>
+![Dashboard]
+(<img width="1710" height="1073" alt="dashboard" src="https://github.com/user-attachments/assets/a0c6f46a-fd68-4890-8582-29bb543d919d" />)
+
+
+
+![Alert Example]
+(<img width="1710" height="1107" alt="alert" src="https://github.com/user-attachments/assets/05e078a8-761d-4342-9640-38e8408338ff" />
 )
 
-🚀 Installation
+<h2> 🚀 Installation
 1️⃣ Clone the repository
 git clone https://github.com/YOUR_USERNAME/patient-monitoring-system.git
 2️⃣ Upload ESP32 code
@@ -102,7 +108,10 @@ Option B — Python Server
 python3 -m http.server 8000
 Open:
 http://localhost:8000
-🩺 Real Use Cases
+</h2> 
+
+
+<h2> 🩺 Real Use Cases
 Paralysis rehabilitation
 Elderly care centers
 Hospital ICUs
@@ -115,44 +124,10 @@ Voice alerts
 Multi-patient dashboard
 Mobile App (PWA)
 GPS tracking
-📜 License
-MIT License
-⭐ Author
-Puspendu Mallick
+</h2>
 
-Support
+⭐ Author :-Puspendu Mallick
 
----
-
-██████╗  █████╗ ██████╗ ██╗      █████╗ ██╗███████╗███████╗
-██╔══██╗██╔══██╗██╔══██╗██║     ██╔══██╗██║╚══███╔╝██╔════╝
-██████╔╝███████║██████╔╝██║     ███████║██║  ███╔╝ █████╗  
-██╔══██╗██╔══██║██╔══██╗██║     ██╔══██║██║ ███╔╝  ██╔══╝  
-██████╔╝██║  ██║██║  ██║███████╗██║  ██║██║███████╗███████╗
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
 
    Paralyzed Patient Monitoring System (ESP32 + Firebase)
 
-
-
-MIT License
-
-Copyright (c) 2025 PUSPENDU MALLICK
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “PATIENT MONITORING SYSTEM”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
