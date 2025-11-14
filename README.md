@@ -86,7 +86,7 @@ Sensors → ESP32 → Firebase → Web Dashboard → Caregiver
 <h2> 🚀 Installation </h2>
 
 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/patient-monitoring-system.git
+git clone https://github.com/TheCompilerBro/patient-monitoring-system.git
 
 2️⃣ Upload ESP32 code
 Open ESP32_Code.ino in Arduino
